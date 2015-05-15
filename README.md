@@ -21,3 +21,7 @@ And then execute:
 ## Usage
 
 Post the latest weather forecast into a room by typing ```!weather``` in chat.
+
+## Links
+
+* [isis-plugin-weather on RubyGems](https://rubygems.org/gems/isis-plugin-weather)
